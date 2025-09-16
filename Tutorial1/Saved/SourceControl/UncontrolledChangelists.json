@@ -17,7 +17,6 @@
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/2/3D/943F252PNX8GG3QPIO5N64.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/9/DB/5X1CCWFQBJ5B1FE40KUU3I.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/3/PS/242H0EACBANIC3A9GO3RXV.uasset",
-				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/9/2T/UBBHETD46DG1D0CTZRW9BQ.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/3/MW/KT6Y0NI4UMJ9XCPAA03ZE0.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/C/ER/6MC3JSQMW0J37TU1VVBI76.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/B/KZ/ZKTM8MR5GS939VNPMXYXBD.uasset",
@@ -157,7 +156,8 @@
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/Blueprints/Player/InputActions/IA_Jump.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/Blueprints/Player/InputActions/IA_Look.uasset",
 				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/Blueprints/Player/InputActions/IA_Move.uasset",
-				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/Blueprints/Player/IMC_Default.uasset"
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/Blueprints/Player/IMC_Default.uasset",
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial1/Content/__ExternalActors__/Tutorial1Map/9/2T/UBBHETD46DG1D0CTZRW9BQ.uasset"
 			]
 		}
 	]
