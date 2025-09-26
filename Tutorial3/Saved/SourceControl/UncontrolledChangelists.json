@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial3/Content/3DModels/lowpoly_turrent.uasset",
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial3/Content/Blueprints/BP_Turret.uasset",
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/4V/C82S09N4L0JEBZAEBBQ1HQ.uasset",
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/E0/365BCJQAYI7I3PMFTF1Z3O.uasset",
+				"C:/school/third_year/GDW5/Tutorial1_UE5Git/Tutorial3/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset"
+			]
+		}
+	]
+}
